@@ -1,0 +1,7 @@
+https://faucets.chain.link
+https://www.alchemy.com/faucets
+https://faucet.quicknode.com
+https://www.l2faucet.com
+https://tokentool.bitbond.com/faucet
+https://faucet.triangleplatform.com/arbitrum/sepolia
+https://getblock.io/faucet
