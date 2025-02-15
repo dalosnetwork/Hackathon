@@ -1,0 +1,2 @@
+REMIX - https://www.youtube.com/watch?v=qXPjX8JS708 (Injected Provider yerine WalletConnect kullanabilirsiniz.)
+Hardhat - https://www.youtube.com/watch?v=yD3BsYlRLA4
