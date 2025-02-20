@@ -6,4 +6,6 @@ https://tokentool.bitbond.com/faucet
 https://faucet.triangleplatform.com/arbitrum/sepolia
 https://getblock.io/faucet
 
+https://faucet-testnet.unit0.dev/ [UNIT İÇİN]
+
 NOT: Aldığımız faucetleri geri vermeyi unutmayalım, testnet token bulamayan developerlar da var :(
